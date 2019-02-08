@@ -51,8 +51,8 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="randomDiceImage1" destination="dcv-0V-2YC" id="9bS-YC-REo"/>
-                        <outlet property="randomDiceImage2" destination="gTJ-AB-srR" id="ypb-DR-3ID"/>
+                        <outlet property="diceImageView1" destination="dcv-0V-2YC" id="a8d-mj-PJe"/>
+                        <outlet property="diceImageView2" destination="gTJ-AB-srR" id="JxM-UI-reI"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
